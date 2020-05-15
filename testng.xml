@@ -4,9 +4,6 @@
   <test name="JavaSelenium">
     <classes>
       <class name="com.qingxiaoguo.TestGit">
-        <methods>
-          <include name="zhushi1"/>
-        </methods>
       </class> <!-- com.qingxiaoguo.TestGit -->
     </classes>
   </test> <!-- JavaSelenium -->
