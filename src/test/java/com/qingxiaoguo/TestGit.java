@@ -1,6 +1,6 @@
 package com.qingxiaoguo;
 
-import org.junit.Before;
+
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
