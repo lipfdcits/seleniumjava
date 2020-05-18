@@ -1,6 +1,7 @@
 package com.qingxiaoguo;
 
 
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -22,6 +23,7 @@ public class TestGit {
     @AfterTest
     public void zhushi4(){
         System.out.println("这是@AfterTest注释");
+        Assert.assertEquals(1,2);
     }
 
 }
